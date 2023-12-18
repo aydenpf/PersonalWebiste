@@ -1,0 +1,20 @@
+.body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://npr.brightspotcdn.com/legacy/sites/wunc/files/201509/old_well_yeungb.jpg");
+    background-size: cover;
+}
+.about-me {
+    width: 450px;
+    text-align: center;
+    background: rgba(0,0,0,0.4);
+    padding: 40px;
+    color: white;
+    font-family: 'Century Gothic', sans-serif;
+}
+
+.profile-img{
+    border-radius: 50%;
+    width: 200px;
+    height:200px;
+}
